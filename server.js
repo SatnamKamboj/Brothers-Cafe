@@ -123,7 +123,7 @@ app.get("/db-reservation", function (req, resp) {
                 service: 'gmail',
                 auth: {
                     user: 'brotherscafe39@gmail.com',
-                    pass: 'ltyajisguzsvrhre'
+                    pass: ''
                 }
             });
 
@@ -175,7 +175,7 @@ app.get("/db-contact", function (req, resp) {
                 service: 'gmail',
                 auth: {
                     user: 'brotherscafe39@gmail.com',
-                    pass: 'ltyajisguzsvrhre'
+                    pass: ''
                 }
             });
 
